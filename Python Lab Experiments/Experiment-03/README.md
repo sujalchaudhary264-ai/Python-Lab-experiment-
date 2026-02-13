@@ -1,5 +1,7 @@
-Q Given an array arr[]. Your task is to find the minimum and maximum elements 
-in the array. 
-Examples: 
-   Input: arr[] = [1, 4, 3, 5, 8, 6] 
-   Output: [1, 8] 
+Q  Given an integer array arr[] and an integer k, your task is to find and return 
+the kth smallest element in the given array. 
+Note: The kth smallest element is determined based on the sorted order of the 
+array. 
+Examples : 
+Input: arr[] = [10, 5, 4, 3, 48, 6, 2, 33, 53, 10], k = 4 
+Output: 5 
